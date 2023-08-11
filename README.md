@@ -10,7 +10,7 @@
 - ⚡ Fun fact **🎨 Frontend Maestro with a Passion for Pixels! 🌈 I'm the ultimate color virtuoso, infusing every web canvas with my vibrant imagination. Whether it's crafting captivating graphics or orchestrating the symphony of colors, I turn digital landscapes into kaleidoscopic playgrounds. When I'm not busy painting pixels, you can find me uncovering the secrets of the color wheel or turning coffee into beautiful user interfaces. Let's create a digital rainbow together! 🚀**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4 align="left"></h4>
 <a href="https://linkedin.com/in/dimplerevawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimplerevawala" height="30" width="40" /></a>
 <a href="https://dribbble.com/dimplevyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dimplevyas" height="30" width="40" /></a>
 <a href="https://www.behance.net/dimplevyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dimplevyas" height="30" width="40" /></a>
